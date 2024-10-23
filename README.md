@@ -16,7 +16,7 @@ A lightweight JSON-based database implementation in Go that provides basic CRUD 
 
 ```go
 // Import the package (replace with actual import path)
-import "your/package/path"
+go get github.com/deb151292/GoSon-DB
 ```
 ### Struct for the table should be defined with appropriate fields
 
